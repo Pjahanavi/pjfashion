@@ -96,7 +96,7 @@ All product images are sourced from [Unsplash](https://unsplash.com/) - a free s
    Or simply drag the file into your browser.
 
 ### Live Demo
-[View Live Demo](https://yourusername.github.io/dreamwear-pj-landing/)
+[View Live Demo]( https://pjahanavi.github.io/pjfashion/)
 
 ## 📂 **Project Structure**
 
@@ -200,9 +200,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Pjahanavi/Pjahanavi)
+- LinkedIn: [Your LinkedIn](http://linkedin.com/in/jahanavi-p-10010627b/)
+- Email: pjahanavi2811@gmail.com
 
 ## 🙏 **Acknowledgments**
 
@@ -215,11 +215,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 If you have any questions or need help with setup, please:
 - Open an issue on GitHub
-- Contact via email: your.email@example.com
+- Contact via email: pjahanavi2811@gmail.com
 - Connect on LinkedIn
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-**Made with ❤️ for premium sleepwear experiences**
